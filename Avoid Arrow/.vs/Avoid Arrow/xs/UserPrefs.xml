@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F1BEB5E1-B4D8-F5A2-FDA7-94C0EF8C8373}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/arrowgenerator.cs">
+    <Files>
+      <File FileName="Assets/script/player.cs" Line="51" Column="20" />
+      <File FileName="Assets/script/arrowgenerator.cs" Line="32" Column="17" />
+      <File FileName="Assets/script/pointgenerator.cs" Line="17" Column="6" />
+      <File FileName="Assets/script/point.cs" Line="7" Column="48" />
+      <File FileName="Assets/script/UIdirector.cs" Line="32" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Avoid Arrow" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="script" expanded="True">
+                <Node name="arrowgenerator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1337c0ca-e5e1-4369-aa96-87d1344dd84b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
